@@ -1,0 +1,25 @@
+{
+  "name": "security_hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jslint": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint .",
+    "lint-fix": "./node_modules/.bin/eslint --fix .",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansushina/security_hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansushina/security_hw1/issues"
+  },
+  "homepage": "https://github.com/ansushina/security_hw1#readme"
+}
